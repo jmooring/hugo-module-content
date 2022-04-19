@@ -43,12 +43,4 @@ To add this content to your Hugo project:
    ```toml
    [[module.imports]]
    path = "github.com/jmooring/hugo-content"
-   
-   [[module.imports.mounts]]
-   source = "assets"
-   target = "assets"
-
-   [[module.imports.mounts]]
-   source = "content"
-   target = "content"
    ```
