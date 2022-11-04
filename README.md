@@ -31,7 +31,7 @@ data/
 
 ## Usage
 
-To add this content to your Hugo project:
+### To add this content to your Hugo project as a Hugo module
 
 1. Initialize your project as a Hugo Module.
 
@@ -45,3 +45,24 @@ To add this content to your Hugo project:
    [[module.imports]]
    path = "github.com/jmooring/hugo-content"
    ```
+
+### To add this content to your Hugo project via npm
+
+1. Install the package.
+
+   ```bash
+   npm install -D https://github.com/jmooring/hugo-content
+   ```
+
+2. Update your site configuration.
+
+   ```toml
+   [[module.mounts]]
+   source = 'content'
+   target = 'content'
+ 
+   [[module.mounts]]
+   source = 'node_modules/hugo-content/content'
+   target = 'content'
+   ```
+  
