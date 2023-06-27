@@ -6,5 +6,9 @@
   "lemon": {
     "color": "yellow",
     "taste": "sour"
+  },
+  "cherry": {
+    "color": "red",
+    "taste": "sweet"
   }
 }
