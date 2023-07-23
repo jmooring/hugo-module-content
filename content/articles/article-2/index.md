@@ -6,5 +6,3 @@ draft = false
 This is article/article-2/index.md
 
 ![A cute puppy](b.jpg)
-
-And he's beautiful too!
