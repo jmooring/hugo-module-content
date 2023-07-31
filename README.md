@@ -13,6 +13,8 @@ assets/
 └── videos/
     ├── a.mp4
     └── b.mp4
+data/
+└── fruit.json
 content/
 └── articles/
     ├── article-1/
@@ -21,12 +23,9 @@ content/
     ├── article-2/
     │   ├── b.jpg
     │   └── index.md
-    ├── article-3/
-    │   ├── c.jpg
-    │   └── index.md
-    └── hugö.md
-data/
-└── fruit.json
+    └── article-3/
+        ├── c.jpg
+        └── index.md
 ```
 
 ## Usage
