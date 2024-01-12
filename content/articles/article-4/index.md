@@ -1,8 +1,8 @@
 +++
-title = "Article 3"
+title = "Article 4"
 date = 2021-05-24T16:32:41-07:00
 draft = false
 +++
-This is article/article-3/index.md
+This is article/article-4/index.md
 
-![A really cute puppy](c.jpg)
+![A kitten](d.jpg)
