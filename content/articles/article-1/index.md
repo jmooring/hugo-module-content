@@ -1,7 +1,7 @@
 +++
-title = "Article 1"
+title = 'Article 1'
+description = 'This is Article 1.'
 date = 2021-05-24T16:32:29-07:00
-draft = false
 +++
 
 In the meantime, the wildest health and pleasure grounds accessible and available to tourists seeking escape from care and dust and early death are the parks and reservations of the West.

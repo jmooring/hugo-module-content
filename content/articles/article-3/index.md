@@ -1,7 +1,7 @@
 +++
-title = "Article 3"
+title = 'Article 3'
+description = 'This is Article 3.'
 date = 2021-05-24T16:32:41-07:00
-draft = false
 +++
 
 Three species of Cheilanthes,—Californica, gracillima, and myriophylla, with beautiful two to four pinnate fronds, an inch to five inches long, adorn the stupendous walls of the cañons, however dry and sheer.

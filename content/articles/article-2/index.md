@@ -1,7 +1,7 @@
 +++
-title = "Article 2"
+title = 'Article 2'
+description = 'This is Article 2.'
 date = 2021-05-24T16:32:34-07:00
-draft = false
 +++
 
 Under the timber and stone act of 1878, which might well have been called the “dust and ashes act,” any citizen of the United States could take up one hundred and sixty acres of timber land, and by paying two dollars and a half an acre for it obtain title.
