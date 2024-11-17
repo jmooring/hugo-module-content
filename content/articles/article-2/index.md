@@ -1,6 +1,6 @@
 +++
 title = 'Article 2'
-description = 'This is Article 2.'
+summary = 'This is Article 2.'
 date = 2021-05-24T16:32:34-07:00
 +++
 
